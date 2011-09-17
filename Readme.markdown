@@ -1,5 +1,7 @@
 # cobalt.vim #
 
+![cobalt.vim example](http://f.cl.ly/items/1c0r2v202w2t0k3s4016/cobalt.vim%20example.jpg)
+
 For some reason, I'm never able to get a better cobalt theme for vim
 than by using coloration to convert the actual TextMate theme over to
 vim format.
