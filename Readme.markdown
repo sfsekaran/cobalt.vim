@@ -15,3 +15,5 @@ Either copy `cobalt.vim` to your `~/.vim/colors` directory manually,
 or if you're using Janus, you can add this to your `~/.janus.rake`:
 
     vim_plugin_task "cobalt.vim", "git://github.com/sfsekaran/cobalt.vim.git"
+
+For the latest version of Janus, simply git clone cobalt.vim into your ~/.janus folder.
